@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm Noah</h1>
-<h3 align="center">A passionate frontend developer from Belgium</h3>
-
-- 📫 How to reach me **Cherry Pie#6729**
+<h3 align="center">A passionate developer from Belgium</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noahpladys&label=Profile%20views&color=4bcca9&style=flat" alt="noahpladys" /> </p>
+
+<h4 align="center">How to reach me:</h4>
+<p align="center">
+    - Email: pladys.noah@gmail.com<br>
+    - Discord: Cherry Pie#6729
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
