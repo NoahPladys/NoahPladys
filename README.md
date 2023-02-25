@@ -3,13 +3,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=noahpladys&label=Profile%20views&color=4bcca9&style=flat" alt="noahpladys" /> </p>
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="center" style="color:red;">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/noah-pladys-a83309228/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="noah pladys" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center" style="background:red;"> 
+<p align="center"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
   </a> 
