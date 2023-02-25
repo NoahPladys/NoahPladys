@@ -9,7 +9,7 @@
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
-<p align="center" style="background:#92BB95"> 
+<p align="center" style="background:blue"> 
   <a href="https://angular.io" target="_blank" rel="noreferrer"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a> 
