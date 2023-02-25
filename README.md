@@ -71,5 +71,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noahpladys&show_icons=true&locale=en&layout=compact" alt="noahpladys" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=NoahPladys&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img src="https://github-readme-stats.vercel.app/api?username=NoahPladys&theme=light&hide_border=false&include_all_commits=false&count_private=false" />
 </p>
